@@ -1,2 +1,2 @@
-# ROS_PROJRCTS
+## IMAGE BASED VISUAL SERVOING
 ROS Projects by Pinak Jani
