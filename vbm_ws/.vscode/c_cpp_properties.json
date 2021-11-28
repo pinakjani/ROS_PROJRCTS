@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/pinak/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/pinak/catkin_ws/src/pinak_beginner_tutorials/include/**",
+        "/home/pinak/catkin_ws/src/pinak_hw3/include/**",
+        "/home/pinak/catkin_ws/src/quat_to_euler/include/**",
+        "/home/pinak/catkin_ws/src/urdf_basic/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
